@@ -31,5 +31,5 @@ I'm a software engineer and computer science student passionate about building d
 - The College of Idaho - B.S in Computer Science
 
 ## 🤝 Let's Connect!
-- LinkedIn : ![https://www.linkedin.com/in/geraldakorli/](https://www.linkedin.com/in/geraldakorli/)
-- Email : ![gerald.akorli@gmail.com](gerald.akorli@gmail.com)
+- LinkedIn : (https://www.linkedin.com/in/geraldakorli/)
+- Email : (gerald.akorli@gmail.com)
