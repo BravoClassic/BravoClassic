@@ -33,3 +33,5 @@ I'm a software engineer and computer science student passionate about building d
 ## 🤝 Let's Connect!
 - LinkedIn : https://www.linkedin.com/in/geraldakorli/
 - Email : gerald.akorli@gmail.com
+
+![](https://komarev.com/ghpvc/?username=BravoClassic&color=green)
