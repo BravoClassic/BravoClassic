@@ -1,81 +1,35 @@
 # Gerald Akorli
 
-**Machine Learning Engineer | Enterprise Voice AI & B2B SaaS | LLMs, PyTorch, MLOps**
+**Machine Learning Engineer · Applied AI / NLP · Software Engineer**  
+M.S. Computer Science (AI & Machine Learning), Mercy University · New York, NY
 
-I build production AI systems that turn machine learning research into reliable business infrastructure. My current work sits at the intersection of **enterprise voice AI**, **LLM safety**, **ML operations**, and **full-stack product engineering**.
+I build AI-powered products and the software systems behind them—from LLM applications and data pipelines to user-facing web and mobile experiences. My background includes machine learning engineering at Yum! Brands and hands-on work with Python, cloud infrastructure, APIs, and full-stack development.
 
-I have helped integrate **TrustWise into Voice AI serving 60K+ restaurants**, contributing to a **20% drop in escalations** through safer, more reliable AI behavior in production environments.
+I'm especially interested in **applied AI, NLP/LLMs, ML infrastructure, and forward-deployed engineering**: turning promising models into useful, dependable products.
 
----
+## Selected projects
 
-## What I Work On
+| Project | What I built / explored | Stack |
+| --- | --- | --- |
+| [Jiffy Clips](https://github.com/BravoClassic/jiffy_clips_new) | Short-video app with AI-generated descriptions and tags, authenticated uploads, and a content-discovery foundation. | Next.js, TypeScript, Gemini, Supabase, Clerk |
+| [YotesApp / OverYonder](https://github.com/BravoClassic/yotesapp) | Campus event-discovery product spanning web, mobile, authentication, event data, and notification workflows. | React, React Native, FastAPI, Supabase, PostgreSQL |
+| [Customer Churn Prediction](https://github.com/BravoClassic/customer_churn) | Supervised learning workflow for preprocessing customer data, training classifiers, and evaluating churn predictions. | Python, pandas, scikit-learn |
+| [Brain Tumor Classification](https://github.com/BravoClassic/Brain-Tumor-Classification) | Computer-vision exploration using CNNs, transfer learning, and an interactive Streamlit interface. | Python, TensorFlow, Keras, Streamlit |
 
-- **Production Machine Learning:** model integration, inference workflows, monitoring, evaluation, and reliability
-- **LLMs & AI Safety:** trust, guardrails, escalation reduction, and enterprise AI behavior improvement
-- **MLOps & Data Infrastructure:** Python services, SQL diagnostics, Datadog monitoring, Kubernetes/OpenLens workflows, and pipeline validation
-- **B2B SaaS Products:** scalable web apps, backend systems, analytics dashboards, and customer-facing AI tools
-- **Applied ML Engineering:** churn prediction, forecasting, recommendation systems, and computer vision experiments
+## Engineering toolkit
 
----
-
-## Technical Stack
-
-**Languages:** Python, TypeScript, JavaScript, Java, R, SQL  
-**ML / AI:** PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LangChain, LLM evaluation  
-**Backend:** Node.js, FastAPI, Express, REST APIs  
+**AI / ML:** scikit-learn, TensorFlow, Keras, PyTorch, LLM evaluation, RAG, recommendation systems  
+**Languages:** Python, TypeScript, JavaScript, SQL, Java, R  
+**Backend & data:** FastAPI, REST APIs, PostgreSQL, Supabase, Snowflake  
 **Frontend:** React, Next.js, React Native, Tailwind CSS  
-**Data / Cloud:** Supabase, PostgreSQL, MySQL, Snowflake, AWS, GCP  
-**DevOps / Observability:** Git, Docker, Kubernetes, OpenLens, Datadog, Linux  
+**Infrastructure:** Docker, Kubernetes, AWS, GCP, Git
 
----
+## Experience & education
 
-## Featured Work
-
-### Enterprise Voice AI & TrustWise
-Integrated AI trust and safety capabilities into enterprise Voice AI systems serving tens of thousands of restaurants, improving reliability and reducing escalations in production.
-
-### Customer Churn Prediction
-Built a churn prediction pipeline on the Kaggle Telco dataset with scikit-learn and XGBoost, comparing logistic regression and gradient boosting models with cross-validation, ROC AUC tracking, and feature importance analysis.
-
-### LLM Evaluation Platform
-Developed a full-stack web app for side-by-side LLM comparisons, performance metrics, and analytics dashboards for evaluating model behavior and output quality.
-
-### OverYonder
-Built a campus event and engagement platform focused on helping students discover events, increase participation, and improve campus community engagement.
-
----
-
-## Current Focus
-
-- Building stronger production ML and ML infrastructure systems
-- Deepening expertise in LLM evaluation, AI safety, and model serving
-- Shipping B2B SaaS products with real business value
-- Preparing for high-impact ML engineering and software engineering roles
-
----
-
-## Education
-
-**The College of Idaho**  
-B.A. in Computer Science  
-Minors: Arts & Design, Sociology
-
----
+- **Yum! Brands** — Machine Learning Engineering: worked on AI assistants, backend/API improvements, and data workflows.
+- **Mercy University** — M.S. Computer Science, AI & Machine Learning specialization (in progress).
+- **The College of Idaho** — B.S. Computer Science; minors in Arts & Design and Sociology.
 
 ## Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/geraldakorli/
-- **Email:** gerald.akorli@gmail.com
-- **LeetCode:** https://leetcode.com/BravoClassic
-
-![](https://komarev.com/ghpvc/?username=BravoClassic&color=green)
-
----
-
-## GitHub Stats
-
-[![BravoClassic's GitHub stats](https://github-readme-stats.vercel.app/api?username=BravoClassic&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-
-## LeetCode
-
-![BravoClassic's Leetcode Stats](https://leetcard.jacoblin.cool/bravo_classic?theme=light&font=Noto%20Sans%20Georgian&ext=activity)
+[LinkedIn](https://www.linkedin.com/in/geraldakorli/) · [Portfolio repository](https://github.com/BravoClassic/gerald-portfolio) · [Email](mailto:gerald.akorli@gmail.com)
